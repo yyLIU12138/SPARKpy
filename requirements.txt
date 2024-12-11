@@ -1,0 +1,15 @@
+POT == 0.9.5
+matplotlib == 3.9.3
+matplotlib-venn == 1.1.1
+numpy == 2.0.2
+pandas == 2.2.3
+paste-bio == 1.4.0
+paste2 == 1.0.1
+scanpy == 1.10.4
+scikit-learn == 1.5.2
+scipy == 1.14.1
+seaborn == 0.13.2
+torch == 2.5.1
+umap-learn == 0.5.7
+statsmodels == 0.14.4
+
