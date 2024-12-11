@@ -44,8 +44,8 @@ warnings.filterwarnings('ignore')
 
 from SPARKpy import *
 
-data_dir = '../data/processed_data/MOB/'
-save_dir = '../results/Rep11_MOB/'
+data_dir = './data/processed_data/MOB/'
+save_dir = './results/Rep11_MOB/'
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
